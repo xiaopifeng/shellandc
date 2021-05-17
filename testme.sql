@@ -42,3 +42,4 @@ SELECT *
 FROM accounts;
 
 DESCRIBE me.accounts;
+-- 多学多用吧
