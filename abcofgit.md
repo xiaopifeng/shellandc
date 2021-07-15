@@ -1,0 +1,9 @@
+- 如何使用git stash,git stash show,git status pop,git stash list
+- 没有track的file不能使用stash命令存储在堆栈中
+- git checkout filename 可以仓库里面的filename内容覆盖当前工作区里面的filename
+- git checkout 要审慎使用
+- git init
+- git add file /git add --all
+- git commit -m "comments"
+- git log
+- git branch
